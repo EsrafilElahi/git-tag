@@ -4,7 +4,7 @@
 
 2) Include the fix manually if it's just a change .... 
 	git add .
-	git ci -m "Fix included"
+	git commit -m "Fix included"
     or cherry-pick the commit, whatever is easier
 	git cherry-pick  {num_commit}
 	

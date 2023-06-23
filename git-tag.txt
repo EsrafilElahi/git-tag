@@ -18,3 +18,4 @@
 		
 5)  Update local repository with the updated tag
 	git fetch --tags
+
